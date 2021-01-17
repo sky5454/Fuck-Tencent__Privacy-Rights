@@ -1,13 +1,13 @@
 # Fuck-Tencent-SSR  Privacy-Rights
-以下为中英双语说明
-The following is a bilingual description in Chinese and English
+以下为中英双语说明<br/>
+The following is a bilingual description in Chinese and English<br/>
 
 ## Fuck Tencent 
-狗日的腾讯收集用户隐私（浏览器记录和SSR配置文件），不可饶恕，腾讯竟然视法律如无物。
-Tencent's collection of user privacy (browser records and SSR configuration files) is unforgivable. Tencent treats the law as nothing.
+狗日的腾讯收集用户隐私（浏览器记录和SSR配置文件），不可饶恕，腾讯竟然视法律如无物。<br/>
+Tencent's collection of user privacy (browser records and SSR configuration files) is unforgivable. Tencent treats the law as nothing.<br/>
 
-> 我曾天真地以为腾讯是国内隐私保护最好的公司，一直信任且有好感，可惜事实并不如人意。
-> I naively thought that Tencent was the company with the best privacy protection in China. It has always been trusted and has a good impression. Unfortunately, the facts are not satisfactory.
+> 我曾天真地以为腾讯是国内隐私保护最好的公司，一直信任且有好感，可惜事实并不如人意。<br/>
+> I naively thought that Tencent was the company with the best privacy protection in China. It has always been trusted and has a good impression. Unfortunately, the facts are not satisfactory.<br/>
 
 **证据留档**
 
@@ -35,10 +35,10 @@ Tencent's collection of user privacy (browser records and SSR configuration file
 ## 解决方案
 > 以下网站以 `gov.cn 或 edu.cn` 结尾，均属于政府/教育官方机构网站
 
-向政府提建议：
-【个人信息保护法草案等多部法律草案公开征求意见-中华人民共和国中央人民政府官网】 http://www.gov.cn/xinwen/2020-10/21/content_5553138.htm
+**向政府提建议：**
+ - 【个人信息保护法草案等多部法律草案公开征求意见-中华人民共和国中央人民政府官网】 http://www.gov.cn/xinwen/2020-10/21/content_5553138.htm
 
-资料：
-《中华人民共和国个人信息保护法（草案）》- 法制政府网  fzzfyjy.cupl.edu.cn/info/1077/12335.htm
-个人信息保护法草案等多部法律草案公开征求意见 www.npc.gov.cn/npc/c30834/202010/9f67b926535948719c2a0b0220dce9ed.shtml
+**资料：**
+ - 《中华人民共和国个人信息保护法（草案）》- 法制政府网  fzzfyjy.cupl.edu.cn/info/1077/12335.htm
+ - 个人信息保护法草案等多部法律草案公开征求意见 www.npc.gov.cn/npc/c30834/202010/9f67b926535948719c2a0b0220dce9ed.shtml
 
