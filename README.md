@@ -32,3 +32,9 @@ Tencent's collection of user privacy (browser records and SSR configuration file
 3. 【V2EX】QQ 正在尝试读取你的浏览记录 https://www.v2ex.com/t/745030
 4. 【财新网】一张图看懂“3Q大战”始末 http://datanews.caixin.com/2013-11-27/100610402.html
 
+## 解决方案
+
+向政府提建议：
+【个人信息保护法草案等多部法律草案公开征求意见-中华人民共和国中央人民政府官网】 http://www.gov.cn/xinwen/2020-10/21/content_5553138.htm
+
+
