@@ -33,8 +33,12 @@ Tencent's collection of user privacy (browser records and SSR configuration file
 4. 【财新网】一张图看懂“3Q大战”始末 http://datanews.caixin.com/2013-11-27/100610402.html
 
 ## 解决方案
+> 以下网站以 `gov.cn 或 edu.cn` 结尾，均属于政府/教育官方机构网站
 
 向政府提建议：
 【个人信息保护法草案等多部法律草案公开征求意见-中华人民共和国中央人民政府官网】 http://www.gov.cn/xinwen/2020-10/21/content_5553138.htm
 
+资料：
+《中华人民共和国个人信息保护法（草案）》- 法制政府网  fzzfyjy.cupl.edu.cn/info/1077/12335.htm
+个人信息保护法草案等多部法律草案公开征求意见 www.npc.gov.cn/npc/c30834/202010/9f67b926535948719c2a0b0220dce9ed.shtml
 
