@@ -41,4 +41,5 @@ Tencent's collection of user privacy (browser records and SSR configuration file
 **资料：**
  - 《中华人民共和国个人信息保护法（草案）》- 法制政府网  fzzfyjy.cupl.edu.cn/info/1077/12335.htm
  - 个人信息保护法草案等多部法律草案公开征求意见 www.npc.gov.cn/npc/c30834/202010/9f67b926535948719c2a0b0220dce9ed.shtml
+ - 欢迎大家多多转发，多多 PR，这不是为了谁，只是为了我们自己以及子孙后代，也为了这个国家。
 
