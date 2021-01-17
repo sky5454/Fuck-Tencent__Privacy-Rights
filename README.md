@@ -9,6 +9,11 @@ Tencent's collection of user privacy (browser records and SSR configuration file
 > 我曾天真地以为腾讯是国内隐私保护最好的公司，一直信任且有好感，可惜事实并不如人意。<br/>
 > I naively thought that Tencent was the company with the best privacy protection in China. It has always been trusted and has a good impression. Unfortunately, the facts are not satisfactory.<br/>
 
+<hr>
+
+以下链接可通过右击新标签页打开<br/>
+The following link can be opened by right-clicking on the new tab page.<br/>
+
 **证据留档**
 
 <hr/>
